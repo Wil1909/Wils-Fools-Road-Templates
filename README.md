@@ -89,7 +89,7 @@ WFR_FoolsRoad_Layer_Template is a layer that has all POI's setup with capture zo
 ### Prerequisites
 
 Please install all Prerequisites before running the script.
-* Lunacid
+* Squad SDK (Editor)
   ```sh
   Squad SDK (Editor) Installed
   ```
@@ -103,10 +103,6 @@ Please install all Prerequisites before running the script.
 5. Run the FaL Creation Tool and call the data asset WFR_FaLCreationTemplate to create templates to move to your mod.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/Wil1909/Wils-Fools-Road-Templates.svg?style=for-the-badge
 [contributors-url]: https://github.com/Wil1909/Wils-Fools-Road-Templates/graphs/contributors
