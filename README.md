@@ -90,9 +90,6 @@ WFR_FoolsRoad_Layer_Template is a layer that has all POI's setup with capture zo
 
 Please install all Prerequisites before running the script.
 * Squad SDK (Editor)
-  ```sh
-  Squad SDK (Editor) Installed
-  ```
 
 ### Instructions
 
