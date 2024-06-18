@@ -65,7 +65,8 @@ This repo contains templates for Wil's Fools Road to make you own layers.
 Assets included are:
 
 Gameplay Layer Level; 
-  WFR_FoolsRoad_Layer_Template (Level)
+  WFR_FoolsRoad_Layer_Template (Level),
+  WFR_Fools_Road_Landscape_and_Geo (level)
 
 Gameplay Layer Data; 
   WFR_FoolsRoad_LayerTemplate_AAS_Big (Data Asset),
@@ -73,7 +74,8 @@ Gameplay Layer Data;
   WFR_FoolsRoad_LayerTemplate_RAAS_Big (Data Asset),
   WFR_FoolsRoad_LayerTemplate_RAAS_Medium (Data Asset),
   WFR_FoolsRoad_LayerTemplate_Invasion_Big (Data Asset),
-  WFR_FoolsRoad_LayerTemplate_Invasion_Medium (Data Asset)
+  WFR_FoolsRoad_LayerTemplate_Invasion_Medium (Data Asset),
+  WilsFoolsRoad (Data Asset)
 
 FAL Creation Tool Data;  
   WFR_FaLCreationTemplate (Data Asset)
@@ -94,9 +96,9 @@ Please install all Prerequisites before running the script.
 ### Instructions
 
 1. Download the latest release [release](https://github.com/Wil1909/Wils-Fools-Road-Templates/releases).
-2. Extract the files to the SDK path to EpicGames\SquadEditor\Squad\Plugins\Mods\WFR_Templates.
+2. Extract the files to the SDK path to EpicGames\SquadEditor\Squad\Plugins\Mods\Wils_FoolsRoad.
 3. Launch the Squad SDK
-4. Go to Project Settings -> Asset Manager, make sure to set the directory to exclude | /WFR_Templates
+4. Go to Project Settings -> Asset Manager, make sure to set the directory to exclude | /Wils_FoolsRoad
 5. Run the FaL Creation Tool and call the data asset WFR_FaLCreationTemplate to create templates to move to your mod.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
