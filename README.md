@@ -88,6 +88,8 @@ Plugin Data;
 
 WFR_FoolsRoad_Layer_Template is a layer that has all POI's setup with capture zones and the large common mains (Corners) setup with vehicle spawns, spawners and etc. This layer also has the level WFR_Fools_Road_Landscape_and_Geo attached to it that points to the mod Wil's Fools Road. Removing this level would break the template so proceed with caution.
 
+Starting in Release Beta 1.5, I will also be adding a release package with a stripped down version of the GEO level to make it easier to make layers. This is very stripped down and has missing statics, foliage and other things. Installation is the same, just only download the GEO layer then. This secondary package will only be updated when a major overhaul happens to the terrain\POI's for the map.
+
 ### Prerequisites
 
 Please install all Prerequisites before running the script.
